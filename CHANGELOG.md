@@ -1,5 +1,13 @@
-# HEAD
+# v3.2.0
 
+ * Bumping to a new version - Jon Rohan [github/github@ff32813](https://github.com/github/github/commit/ff32813)
+ * Make sure the modules build without error before publishing - Jon Rohan [github/github@57ac5e6](https://github.com/github/github/commit/57ac5e6)
+ * First part of genpopping all system font changes: remove typographic overrides for font-size, line-height, etc on global components - Mark Otto [github/github@6c50e2d](https://github.com/github/github/commit/6c50e2d)
+ * Adding documentation status to most of the modules - Jon Rohan [github/github@b97695c](https://github.com/github/github/commit/b97695c)
+
+# v3.1.3
+
+ * Publishing a new version - Jon Rohan [github/github@eed0e96](https://github.com/github/github/commit/eed0e96)
  * Adding link to homepage in readme docs - Jon Rohan [github/github@633f421](https://github.com/github/github/commit/633f421)
  * Removing some unnecessary lint plugins and using native - Jon Rohan [github/github@2ae0070](https://github.com/github/github/commit/2ae0070)
  * including no-utility lint plugin - Jon Rohan [github/github@5cb86ed](https://github.com/github/github/commit/5cb86ed)
